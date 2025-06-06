@@ -1,6 +1,6 @@
 # Amazon Dashboard Analysis
 
-## Table of Contemt 
+## Table of Content 
  - [Project Overview](#Project-Overview)
  - [Data Source](#data-source)
  - [Tools](#tools)
